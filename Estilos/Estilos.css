@@ -3,3 +3,8 @@ body{
     text-align: center;
     color: darkblue;
 }
+#cabecera{
+    padding: 2em 0 2em 0;
+    background-color: darkgray ;
+    margin:  2em 0 2em 0
+}
