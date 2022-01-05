@@ -1,3 +1,3 @@
 # ProyectoPersonal
 
-Primer aplicativo que utiliza a fondo las funcionalidades de git por consola
+App de Prueba para desarrollo con funcionalidades completas de GIT
