@@ -10,9 +10,9 @@ body{
 }
 #cabecera {
   background-color: rgba(100, 100, 100, 0.2);
-  border-radius: 23px 23px 23px 23px;
-  -webkit-border-radius: 23px 23px 23px 23px;
-  -moz-border-radius: 23px 23px 23px 23px;
+  border-radius: 23px 23px 0px 0px;
+  -webkit-border-radius: 23px 23px 0px 0px;
+  -moz-border-radius: 23px 23px 0px 0px;
 }
 .Titulo {
   padding: 1em; 
